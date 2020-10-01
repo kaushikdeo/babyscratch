@@ -1,8 +1,8 @@
 (function() {
 
     var image = { // back and front images
-      'back': { 'url':'http://lorempixel.com/600/400/nature/2', 'img':null },
-        'front': { 'url':'http://lorempixel.com/600/400/nature/5', 'img':null }
+      'back': { 'url':'https://iili.io/2Gwyzv.jpg', 'img':null },
+        'front': { 'url':'https://iili.io/2GwmmJ.jpg', 'img':null }
     };
     
     var canvas = {'temp':null, 'draw':null}; // temp and draw canvases
