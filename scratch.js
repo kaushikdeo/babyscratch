@@ -1,8 +1,8 @@
 (function() {
 
     var image = { // back and front images
-      'back': { 'url':'https://iili.io/2Gwyzv.jpg', 'img':null },
-        'front': { 'url':'https://iili.io/2GwmmJ.jpg', 'img':null }
+      'back': { 'url':'https://iili.io/2GNqes.png', 'img':null },
+        'front': { 'url':'https://iili.io/2GNf7n.png', 'img':null }
     };
     
     var canvas = {'temp':null, 'draw':null}; // temp and draw canvases
